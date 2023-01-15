@@ -1,0 +1,10 @@
+body {
+    background-color: floralwhite;
+    
+}
+img {
+   width: 40%;
+   border-radius: 20px;
+   display: block;
+   margin-bottom: 0.5em;
+}
